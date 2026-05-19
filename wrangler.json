@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "456513e2-3050-4339-a367-f864caa85197",
+			"database_name": "hasp_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
